@@ -1,0 +1,9 @@
+li {
+    margin: 15px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

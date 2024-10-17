@@ -11,6 +11,8 @@ li {
 body {
     background-color: #ddf2ff;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 20px;
+    padding-top: 5px;
 }
 
 .solution {
